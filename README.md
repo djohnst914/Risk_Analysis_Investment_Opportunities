@@ -31,7 +31,7 @@ Once JupyterLab is installed and you have run it from the terminal, check the ve
 
 ## *Usage*
 
-- To use the program you will simply either run the code from the very top clicking the run button, or you will hit shift+enter on your keyboard if you don't want to click a bunch ![Screenshot 2023-04-02 at 3 38 19 PM](https://user-images.githubusercontent.com/123714457/229382905-d4b4e136-7159-4b5a-b27a-2615f8ef4ab8.png) 
+- To use the program you will simply either run the code from the very top clicking the run button, or you will hit shift+enter on your keyboard ![Screenshot 2023-04-02 at 3 38 19 PM](https://user-images.githubusercontent.com/123714457/229382905-d4b4e136-7159-4b5a-b27a-2615f8ef4ab8.png) 
 
 ## *Contributor*
 
