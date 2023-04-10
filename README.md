@@ -16,9 +16,8 @@ Here at your local FinTech investing platform, our goal is to offer clients a on
 ## *Installation Guide*
 
 **First things first:**
-If you don't have jupyter lab installed..
+If you don't have jupyter lab or python installed..
 - **[Install and run JupyterLab:](https://jupyter.org/install)**
-If you dont have python installed..
 - **[Install Python:](https://www.python.org/downloads/)**
 **Now to clone this repository so you can open it up in JupyterLab:**
 - **1:** Copy URL of this repo <img width="300" alt="Screenshot 2023-04-09 at 6 05 23 PM" src="https://user-images.githubusercontent.com/123714457/230800575-a264c086-dc62-42c5-a833-f7e4677ca4e0.png">
