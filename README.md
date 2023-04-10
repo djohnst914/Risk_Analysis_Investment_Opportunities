@@ -1,6 +1,6 @@
 # Risk Analysis Evaluation - Four Fund Portfolios 
 
-Here at your local FinTech investing platform, our goal is to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality. To keep the costs low, our firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options. With my rolse as a quantitative analyst, I have been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. In the main program app (risk_return_analysis_ipynb), I have successfully determined the fund with the most investment potential based on these key risk-management metrics: daily returns, standard deviations, Sharpe ratios, and betas. Please, take a look, and if you have any questions feel free to reach out to my personal email under the contributor section. 
+Here at your local FinTech investing platform, our goal is to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality. To keep the costs low, our firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options. With my role as a quantitative analyst, I have been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. In the main program app (risk_return_analysis_ipynb), I have successfully determined the fund with the most investment potential based on these key risk-management metrics: daily returns, standard deviations, Sharpe ratios, and betas. Please, take a look, and if you have any questions feel free to reach out to my personal email under the contributor section. 
 
 ---
 
@@ -16,9 +16,10 @@ Here at your local FinTech investing platform, our goal is to offer clients a on
 ## *Installation Guide*
 
 **First things first:**
+If you don't have jupyter lab installed..
 - **[Install and run JupyterLab:](https://jupyter.org/install)**
-Once JupyterLab is installed and you have run it from the terminal, check the version of Python within JupyterLab:
-- In a block of code, Import library sys, then type sys.version, you will get your Python version in the output after running the block of code ![Screenshot 2023-04-02 at 3 02 09 PM](https://user-images.githubusercontent.com/123714457/229381333-d8103f06-af51-4b08-b850-51a0b931a598.png)
+If you dont have python installed..
+- **[Install Python:](https://www.python.org/downloads/)**
 **Now to clone this repository so you can open it up in JupyterLab:**
 - **1:** Copy URL of this repo <img width="300" alt="Screenshot 2023-04-09 at 6 05 23 PM" src="https://user-images.githubusercontent.com/123714457/230800575-a264c086-dc62-42c5-a833-f7e4677ca4e0.png">
 - **2:** Create a folder where you will clone this repo. As an example I created a folder 'Risk_Analysis' on my desktop <img width="40" alt="Screenshot 2023-04-09 at 6 07 15 PM" src="https://user-images.githubusercontent.com/123714457/230800621-6e4d5620-5118-42ea-9489-3c57e60cf693.png">
