@@ -8,7 +8,7 @@ Here at your local FinTech investing platform, our goal is to offer clients a on
 
 - **Programming Language:** Python
 - **Libraries:** Pandas, Pathlib, NumPy, Matplotlib
-- **Framework:** JupyterLab, can also use VS Code
+- **Framework:** JupyterLab
 - **Operating Systems:** Mac OS, Microsoft Windows
 
 ---
