@@ -19,7 +19,7 @@ Here at your local FinTech investing platform, our goal is to offer clients a on
 If you don't have jupyter lab or python installed..
 - **[Install and run JupyterLab:](https://jupyter.org/install)**
 - **[Install Python:](https://www.python.org/downloads/)**
-**Now to clone this repository so you can open it up in JupyterLab:**
+- **Now to clone this repository so you can open it up in JupyterLab:**
 - **1:** Copy URL of this repo <img width="300" alt="Screenshot 2023-04-09 at 6 05 23 PM" src="https://user-images.githubusercontent.com/123714457/230800575-a264c086-dc62-42c5-a833-f7e4677ca4e0.png">
 - **2:** Create a folder where you will clone this repo. As an example I created a folder 'Risk_Analysis' on my desktop <img width="40" alt="Screenshot 2023-04-09 at 6 07 15 PM" src="https://user-images.githubusercontent.com/123714457/230800621-6e4d5620-5118-42ea-9489-3c57e60cf693.png">
 - **3:** Clone the repo into the newly created folder using the copied URL of the repo in the terminal using 'git clone' ![Screenshot 2023-04-09 at 6 09 52 PM](https://user-images.githubusercontent.com/123714457/230800715-d5186f8c-3feb-4a70-ad54-ccb00c88e10d.png)
